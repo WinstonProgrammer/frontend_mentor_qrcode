@@ -21,11 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./Screenshot 2025-03-21 at 13-58-34 Frontend Mentor QR code component.png)
+![Screenshot 2025-03-21 at 13-58-34 Frontend Mentor QR code component](https://github.com/user-attachments/assets/13115cdc-d6ec-4d9f-aad5-6955469d276f)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://your-solution-url.com](https://github.com/WinstonProgrammer/frontend_mentor_qrcode.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
