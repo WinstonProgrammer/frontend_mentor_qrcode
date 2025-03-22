@@ -72,21 +72,15 @@ I want to focus myself on to speed up my time in coding pages, specially in cent
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Resource 1](https://stackoverflow.com/questions/41468951/images-not-displaying-in-github-pages) - This page helped me to figure out how to make an image appear in Github Pages.
+- [Resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) - This article helped me to know how to curve the borders of a container.
+- [Resource 3](https://stackoverflow.com/questions/4973988/why-does-css-not-support-negative-padding) - This article helped me to undestand what values can padding take.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [WinstonProgrammer](https://github.com/WinstonProgrammer)
+- Frontend Mentor - [@WinstonProgrammer](https://www.frontendmentor.io/profile/WinstonProgrammer)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I want to thank the new Frontend Mentor users who made recently the same qr code challenge, their codes helped me to take inspiration and motivation to do my own.
